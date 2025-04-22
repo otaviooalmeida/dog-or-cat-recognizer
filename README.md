@@ -15,7 +15,7 @@ O objetivo é treinar um modelo de deep learning capaz de distinguir entre image
 
 
 ## 📊 Dataset
-O dataset utilizado para treinar o modelo está disponível aqui. No repositório, foi usado um dataset reduzido pois o arquivo original é grande.
+O dataset utilizado para treinar o modelo está disponível [aqui](https://drive.google.com/drive/folders/1aZmd76vk0YiI94T8GDcfNMeDp124dly4). No repositório, foi usado um dataset reduzido pois o arquivo original é grande.
 
 
 ## 🧬 Como Executar
